@@ -1,0 +1,11 @@
+{
+    "Settings": {
+        "Only1Server" : true
+    },
+  "Bot": {
+    "Token": "TOKEN"
+  },
+  "Guild": {
+    "ID": "COOKIES CHANNEL ID "
+  }
+}
